@@ -1,0 +1,10 @@
+{
+    "device_id": "",
+    "ip": "",
+    "local_key": "",
+    "lightname": "Lamp",
+    "font": "Arial",
+    "cycle_speed": 0.02,
+    "effect": "solid",
+    "settings": "solid"
+}
